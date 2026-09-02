@@ -1,3 +1,5 @@
+> **Archived.** The full configuration now lives inline in the tutorial itself: [https://www.heyvaldemar.com/install-grafana-on-ubuntu-server/](https://www.heyvaldemar.com/install-grafana-on-ubuntu-server/). Nothing to clone, nothing to cross-reference. This repository stays up for old links but receives no updates.
+
 # Apache Configuration for Grafana
 
 ## Author
